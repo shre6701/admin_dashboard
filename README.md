@@ -4,5 +4,5 @@ This is a React-based web Application Dashboard Template using React.js, Rechart
 
 
 # Check out the deployed Website here:
-https://frabjous-entremet-030e74.netlify.app/
+dashboardshre.netlify.app
 
